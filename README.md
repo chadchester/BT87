@@ -1,2 +1,2 @@
 # BT87
-Bot deployed in azure
+Bot deployed on azure
